@@ -61,17 +61,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANAN-8017&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MANAN-8017&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <div align="center">
