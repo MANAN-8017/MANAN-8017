@@ -8,11 +8,11 @@
 
 ### 👋 About Me
 
-- 🎓 **B.Tech Computer Engineering** @ Dharmsinh Desai University (2024–2028)
-- 💻 I love building full-stack web apps that solve real problems
-- 🌱 Currently sharpening my skills in **React**, **Django** & **Spring Framework**
-- 🔍 Actively looking for **Software / Web Development Internships**
-- ⚡ Fun fact: I once built an entire timetable scheduling engine in C++ just to avoid timetable clashes 😄
+-  **B.Tech Computer Engineering** @ Dharmsinh Desai University (2024–2028)
+-  I love building full-stack web apps that solve real problems
+-  Currently sharpening my skills in **React**, **Django** & **Spring Framework**
+-  Actively looking for **Software / Web Development Internships**
+-  Fun fact: I once built an entire timetable scheduling engine in C++ just to avoid timetable clashes
 
 ---
 
@@ -48,26 +48,26 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🗓️ Sync](https://github.com/MANAN-8017/Sync-schedule) | Smart automated timetable generator | React, Node.js, C++, MySQL |
-| [🎬 MoviesVerse](https://github.com/MANAN-8017/Movies-Verse) | Movie discovery platform with multi-API aggregation | Django, JavaScript |
-| [👕 ReWear](https://github.com/MANAN-8017/ReWear-Community-Clothing-Exchange) | Community clothing exchange with point system | PHP, MySQL, JS |
-| [📚 Library MS](https://github.com/MANAN-8017/Library-Management-System) | RESTful library system with fine calculation | Java, Spring |
-| [🎓 Student Monitor](https://github.com/MANAN-8017/Student-Monitoring-System) | Academic management portal for faculty | PHP, MySQL |
-| [🏫 College Insight](https://manan-8017.github.io/College-Insight/) | College finder for post-12th students | HTML, CSS |
+| [ Sync-Schedule](https://github.com/MANAN-8017/Sync-schedule) | Smart automated timetable generator | React, Node.js, C++, MySQL |
+| [ Movies-Verse](https://github.com/MANAN-8017/Movies-Verse) | Movie discovery platform with multi-API aggregation | Django, JavaScript |
+| [ ReWear](https://github.com/MANAN-8017/ReWear-Community-Clothing-Exchange) | Community clothing exchange with point system | PHP, JS, MySQL |
+| [ Library MS](https://github.com/MANAN-8017/Library-Management-System) | RESTful library system with fine calculation | Java, Spring |
+| [ Student MS](https://github.com/MANAN-8017/Student-Monitoring-System) | Academic management portal for faculty | PHP, MySQL |
+| [ College Insight](https://manan-8017.github.io/College-Insight/) | College finder for post-12th students | HTML, CSS |
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manan-8017)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manan-patel-463b98416/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANAN-8017)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmpatel8107@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buildwithmanan@gmail.com)
 
 **💼 Open to internship opportunities in Software & Web Development!**
 
