@@ -12,12 +12,12 @@
 
 ### About Me
 
-* 🎓 Pursuing **B.Tech in Computer Engineering** at **Dharmsinh Desai University** (2024–2028)
-* 💻 Passionate about building **full-stack applications** that solve real-world problems
-* 🚀 Currently working with **MERN Stack, Flutter, Dart, C#/.NET & SQL**
-* 🔧 Interested in **Software Development, Backend Engineering & Full-Stack Development**
-* 🌱 Continuously learning and building projects with modern technologies
-* 💼 Actively looking for **Software / Web Development Internships**
+* Pursuing **B.Tech in Computer Engineering** at **Dharmsinh Desai University** (2024–2028)
+* Passionate about building **full-stack applications** that solve real-world problems
+* Currently working with **MERN Stack, Flutter, Dart, C#/.NET & SQL**
+* Interested in **Software Development, Backend Engineering & Full-Stack Development**
+* Continuously learning and building projects with modern technologies
+* Actively looking for **Software / Web Development Internships**
 
 ---
 
@@ -37,7 +37,7 @@
 
 **Tools & IDEs**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
 
 ---
 
@@ -49,12 +49,14 @@
 | [**FairShare**](https://github.com/MANAN-8017/Fair-Share)                      | Expense-sharing mobile application with groups, expense splitting, settlements and debt simplification | Flutter, Dart, Supabase          |
 | [**BuildFlow**](https://github.com/MANAN-8017)                                 | Construction material estimation and procurement management platform                                   | React, Node.js, Express, MongoDB |
 | [**Sync-Schedule**](https://github.com/MANAN-8017/Sync-schedule)               | Smart automated timetable generator for efficient academic scheduling                                  | React, Node.js, C++, MySQL       |
-| [**Movies-Verse**](https://github.com/MANAN-8017/Movies-Verse)                 | Movie discovery platform with multi-API aggregation                                                    | Django, JavaScript               |
+| [**Movies-Verse**](https://github.com/MANAN-8017/Movies-Verse)                 | Movie discovery platform with multi-API aggregation                                                    | Python, Django, JavaScript               |
 | [**ReWear**](https://github.com/MANAN-8017/ReWear-Community-Clothing-Exchange) | Community clothing exchange platform with a point-based community system                               | PHP, JavaScript, MySQL           |
 
 ---
 
 ### Let's Connect
+
+<br><br>
 
 <div align="center">
 
